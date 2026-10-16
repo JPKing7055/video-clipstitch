@@ -5,7 +5,8 @@
 
 **線上使用：** https://jpking7055.github.io/video-clipstitch/
 
-![截圖](docs/screenshot.png)
+![截圖](<img width="1274" height="549" alt="image" src="https://github.com/user-attachments/assets/3f63b522-9762-45e6-b0d8-09782ae92615" />
+)
 
 ## 功能
 
