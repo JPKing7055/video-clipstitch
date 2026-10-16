@@ -1,0 +1,6 @@
+{
+  "name": "影片轉 GIF 動畫工具",
+  "description": "純前端本機影片影格擷取與 GIF 動畫製作工具，支援手動/批次擷取、影格調整與 Web Worker 高速編碼。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
