@@ -5,8 +5,8 @@
 
 **線上使用：** https://jpking7055.github.io/video-clipstitch/
 
-![截圖](video-clipstitch_1)
-![截圖](video-clipstitch_2)
+![截圖](video-clipstitch_1.png)
+![截圖](video-clipstitch_2.png)
 
 ## 功能
 
